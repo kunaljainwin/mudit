@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571428612021",
+    "project_id": "muditkliye",
+    "storage_bucket": "muditkliye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571428612021:android:9c30f86c328d30e12c1bfc",
+        "android_client_info": {
+          "package_name": "com.example.click_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571428612021-eie047be71tntoug1krndp4mckn3icif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqcfRVgSooMth59QkZglVzq9SNiED5fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571428612021-eie047be71tntoug1krndp4mckn3icif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
